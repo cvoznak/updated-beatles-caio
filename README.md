@@ -1,2 +1,3 @@
 # updated-beatles-caio
-class web project - website done to study html and css.
+class web project - website done to study html 5 and css.
+Education purpose
